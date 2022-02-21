@@ -1,2 +1,3 @@
 # bayesreg-chebyshev
-Bayesian regression with Chebyshev polynomials
+
+Variational Bayesian regression with Chebyshev polynomials.
